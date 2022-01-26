@@ -10,7 +10,7 @@ In order to install the Social Network API, the user must download the code and 
 
 ## Usage 
 
-A Walkthrough video of the Social Network API routes being tested via Insomnia is available [here](TBD).
+A Walkthrough video of the Social Network API routes being tested via Insomnia is available [here](https://watch.screencastify.com/v/f91f5YCadhwJjPteR8mW).
 
 Future areas of opportunity include adding HTML pages so a front end can be connected to the backend for a fully functioning application.
 
